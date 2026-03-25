@@ -1,5 +1,7 @@
 # 2026-03-24_more-testing-packaging
 
+We also went over the `vdiffr` demo from the [course notes](https://ubc-dsci.github.io/reproducible-and-trustworthy-workflows-for-data-science/lectures/147-testing-images.html)
+
 Test Quality information taken from [course notes](ubc-dsci.github.io/reproducible-and-trustworthy-workflows-for-data-science/lectures/144-evaluating-test-suite-quality.html)
 
 $$
